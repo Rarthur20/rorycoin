@@ -1,2 +1,2 @@
-# rorycoin
-A minecraft cryptocurrency system
+# RoryCoin
+A small scale minecraft cryptocurrency system
